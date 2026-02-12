@@ -4,6 +4,9 @@
 
 Projeto desenvolvido como parte do desafio da **DIO (Digital Innovation One)**, utilizando o NotebookLM como ferramenta para estruturar um sistema integrado de conhecimento baseado nos ensinamentos de **Napoleon Hill, T. Harv Eker, Bob Proctor, Deepak Chopra e Robert Kiyosaki**.
 
+O conteúdo completo estruturado no NotebookLM pode ser acessado abaixo:
+
+👉 [Working with the Law - NotebookLM](https://notebooklm.google.com/notebook/65d7c03c-5a4e-4573-84a5-c39cbe615990)
 ---
 
 ## 🎯 Propósito do Projeto
